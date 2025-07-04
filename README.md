@@ -1,7 +1,7 @@
 ------------
 
 
-# Punto de Venta para una tienda
+# Punto de Venta
 
 ## Dependencias
 - Se debe tener instalado [XAMPP](https://www.apachefriends.org/es/download.html "XAMPP") (versión **PHP** **8.1** o superior)  
